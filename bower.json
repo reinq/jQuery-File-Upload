@@ -1,5 +1,5 @@
 {
-  "name": "blueimp-file-upload",
+  "name": "reinq-blueimp-file-upload",
   "version": "9.34.0",
   "title": "jQuery File Upload",
   "description": "File Upload widget with multiple file selection, drag&amp;drop support, progress bar, validation and preview images.",
@@ -24,7 +24,7 @@
     "php",
     "bootstrap"
   ],
-  "homepage": "https://github.com/blueimp/jQuery-File-Upload",
+  "homepage": "https://github.com/reinq/jQuery-File-Upload",
   "author": {
     "name": "Sebastian Tschan",
     "url": "https://blueimp.net"
@@ -37,9 +37,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/blueimp/jQuery-File-Upload.git"
+    "url": "git://github.com/reinq/jQuery-File-Upload.git"
   },
-  "bugs": "https://github.com/blueimp/jQuery-File-Upload/issues",
+  "bugs": "https://github.com/reinq/jQuery-File-Upload/issues",
   "license": "MIT",
   "dependencies": {
     "jquery": ">=1.6",
